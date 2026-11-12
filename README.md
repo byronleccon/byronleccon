@@ -74,6 +74,21 @@ const byronleccon = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byronleccon&layout=compact&langs_count=5&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<p align="left">
+  🌐 <strong>Socials</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/byronleccon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/byronlec1425" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <!--
 **byronleccon/byronleccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
