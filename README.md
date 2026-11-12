@@ -70,8 +70,8 @@ const byronleccon = {
 
 <p align="center">
 <a href="https://github.com/byronleccon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byronleccon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byronleccon&layout=compact&langs_count=5&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byronleccon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byronleccon&layout=compact&langs_count=5&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <p align="left">
